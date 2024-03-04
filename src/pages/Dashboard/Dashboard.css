@@ -1,0 +1,26 @@
+.btn-download {
+    cursor: pointer;
+    background-color: #DD3542;
+    border: none;
+    color: #FFFFFF;
+    width: 174px;
+    height: 48px;
+    text-align: center;
+    border-radius: 24px 24px 24px 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.dashboard {
+    background-color: white;
+    height: 800px;
+}
+
+.pagination {
+    position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: none;
+  justify-content: center;
+}
